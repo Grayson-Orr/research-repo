@@ -42,7 +42,7 @@ The maze includes four large, flashing power pellets placed near its corners. Wh
 
 As Pac-Man progresses through the maze, eating a certain number of dots triggers the appearance of bonus items, typically fruit, under the centre box, which can be consumed for additional points. Two warp tunnels positioned at the maze’s sides allow Pac-Man and the ghosts to move instantly between opposite ends of the screen, though ghosts slow down when passing through these tunnels, offering strategic opportunities for the player (Wikipedia Contributors, 2019).
 
-Have a go at a free online [Pac-Man](https://doodles.google/doodle/30th-anniversary-of-pac-man/),  this version demonstrates most of the functionality of the original game in an online format.
+Have a go at a free online [Pac-Man](https://freepacman.org/),  this version demonstrates most of the functionality of the original game in an online format.
 
 ### Tasks
 
